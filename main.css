@@ -1,0 +1,32 @@
+ * {
+margin: 0;
+padding: 0;
+box-sizing:border-box;
+ }
+ 
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.link-blue {
+    color: #00a8cc;
+}
+
+.active {
+    color: #FF6464;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    gap: 32px;
+}
+
+header {
+    display: flex;
+    justify-content: end;
+    padding: 27px 60px 27px 0;
+} 
+ 
